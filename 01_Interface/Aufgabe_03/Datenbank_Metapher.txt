@@ -1,0 +1,2 @@
+In einer Bank wird in der realen Welt, Geld abgespeichert. In einer Datenbank werden dann dem
+Namen entsprechen Daten statt Geld gespeichert.

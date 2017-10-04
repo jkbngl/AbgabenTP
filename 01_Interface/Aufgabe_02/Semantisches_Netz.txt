@@ -1,0 +1,4 @@
+Ein semantisches Netz ist ein Zusammenhang von Begriffen die miteinader zu tun haben
+und gemeinsam einen größeren Überbegriff darstellen. Die Verschiedenen Objekte welche
+den Überbegriff darstellen sind meist mit Graphen miteinander verbunden um ihren 
+Zusammenhang besser darzustellen.

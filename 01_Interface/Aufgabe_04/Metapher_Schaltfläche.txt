@@ -1,0 +1,5 @@
+In der realen Welt bezeichen wir als eine Schaltfäche einen physischen Knopf den
+wir drücken können. In der Welt der Computer können wir Sachen nur 2 Dimensional
+darstellen. Deswegen wird ein einfacher Button um bspw. eine Methode auszuführen
+als Schaltfäche bezeichnet. Menschen die nicht viel mit Computer zu tun haben 
+verstehen deshalb das Wort Schaltfläche besser als bspw. Button.
