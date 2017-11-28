@@ -1,0 +1,13 @@
+Hauptseite:
+	aShareInDeath\exec\index.html
+Buchseite:
+	aShareInDeath\exec\buch\exec\basic\index.html
+Unterseiten:
+	- Autor:
+		aShareInDeath\exec\buch\exec\basic\Sub\Author\index.html
+	- Plot:
+		aShareInDeath\exec\buch\exec\basic\Sub\Plot\index.html
+	- Allgemein:
+		aShareInDeath\exec\buch\exec\basic\Sub\Other\index.html
+	- Hauptcharaktere:
+		aShareInDeath\exec\buch\exec\basic\Sub\MainCharacters\index.html

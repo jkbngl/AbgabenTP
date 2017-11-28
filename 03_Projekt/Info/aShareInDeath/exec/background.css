@@ -1,0 +1,68 @@
+body 
+{
+    color: #fff;
+    font-family: "Century Gothic",Helvetica,Arial,sans-serif;
+    background-image: url(img/background.PNG);
+    background-size: cover;
+    height: 100%;
+    text-align: center;
+    /*margin: 0 10px;*/    /*Wenn die Seite nicht scrollbar sein soll*/
+    position: relative;
+}
+
+body:before 
+{
+    content: '';
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    height: 80%;
+}
+
+.div1
+{
+    max-height: 0px;
+}
+
+main
+{
+    font-family: "Century Gothic",Helvetica,Arial,sans-serif;
+    display: inline-block;
+    background: url(img/de.png);
+    min-height: 310px;
+    min-width: 530px;
+    border-radius: 25px;
+    padding: 20px;
+    color: #23765E;
+    background: white;
+    position: relative;
+}
+
+h1, h2, h3 
+{
+    display: inline;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    vertical-align:middle;
+}
+
+h1
+{
+    font-size: 70px;   
+}
+
+h2
+{
+    font-size: 50px;   
+}
+
+h3
+{
+    font-size: 30px;   
+}
+
+.downArrow
+{
+	position: fixed;
+	bottom: 0%;
+	left: 50%;
+}

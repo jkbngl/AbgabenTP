@@ -1,0 +1,89 @@
+<head>
+    <script type="text/javascript" src="../../extras/jquery.min.1.7.js"></script>
+    <script type="text/javascript" src="../../extras/modernizr.2.5.3.min.js"></script>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
+    <script>
+      WebFont.load({
+      google: {
+      families: ["Lato:100,300,400,700,900","Karla:regular","Cookie:regular"]
+    }
+    });
+    </script>
+    
+    <meta charset="utf-8">  
+    
+    <meta name="description" content="Informations about the Book A Share In Death by Deborah Crombie">
+    <meta name="keywords" content="A Share In Death, Deborah Crombie, Book">
+    
+    <link rel="shortcut icon" type="image/x-icon" href="pages/favicon.ico">
+    
+</head>
+<body>
+    <div class="flipbook-viewport">
+        <div class="container">
+            <div class="flipbook">
+                <div class="hard" style="background-image:url(pages/1.jpg)"></div>
+                <div class="hard"style="background-image:url(pages/pageleft.png)">
+                    <p>
+                    <p class="headerTexts">Contents</p>
+                    <br><br><br><br>
+                     <a href="Sub/Author/index.html" class="contentTexts">Author</a>
+                    <br><br>
+                    <a href="Sub/MainCharacters/index.html" class="contentTexts">Main Characters</a>
+                    <br><br>
+                    <a href="Sub/Plot/index.html#Plot" class="contentTexts">Plot</a>
+                    <br><br>
+                    <a href="Sub/Plot/index.html#Place" class="contentTexts">Place, where the action happens</a>
+                    <br><br>
+                    <a href="Sub/Other/index.html#WritingStyle" class="contentTexts">Writing Style</a>
+                    <br><br>
+                    <a href="Sub/MainCharacters/index.html#Other" class="contentTexts">Other Books by the author</a>
+                </div>
+                <div class="hard"style="background-image:url(pages/pageright.png)">
+                    <p>
+                    <p class="headerTexts">Contents</p>
+                    <br><br><br><br>
+                    <a href="Sub/Other/index.html#socialContext" class="contentTexts">Social Context</a>
+                    <br><br>
+                    <a href="Sub/Plot/index.html#MainTopics" class="contentTexts">Main Topics</a>
+                    <br><br>
+                    <a href="Sub/Other/index.html#My-Recession" class="contentTexts">Recessions</a>
+                    <br><br>
+                    <a href="Sub/Other/index.html#Genre" class="contentTexts">Genre</a>
+                    <br><br>
+                    <a href="Sub/Other/index.html#linguisticAspect" class="contentTexts">Linguistic Aspect</a>
+                    <br><br>
+                    <a href="Sub/Other/index.html#Sources" class="contentTexts">Sources</a>
+                </div>
+                <div class="hard"style="background-image:url(pages/4.png)"></div>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+
+    function loadApp() 
+    {
+        $('.flipbook').turn(
+        {
+                width:800,
+                height:600,
+                elevation: 50,
+                gradients: true,
+                autoCenter: true
+        });
+    }
+        
+    yepnope(
+    {
+        test : Modernizr.csstransforms,
+        yep: ['../../lib/turn.js'],
+        nope: ['../../lib/turn.html4.min.js'],
+        both: ['css/basic.css'],
+        complete: loadApp
+    });
+
+    </script>
+
+</body>
