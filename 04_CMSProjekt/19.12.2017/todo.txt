@@ -1,0 +1,41 @@
+?? Die Idee
+
+Das Projekt umfasst eine Webseite und die dazugehörige Planung. ?? Die Webseite selbst wird mit einem CMS System wie z.B. WordPress, Adobe Dreamweaver oder Joomla! realisiert.
+
+Das Thema: Industrie 4.0: Connectivity ??
+
+? Voraussetzungen
+
+Das Content Management System (CMS)
+WordPress
+Die Planung ??
+Technologie und Planung ??
+Projekt Management ??
+?? Architektur/Philosophie
+
+HTML5, CSS3 (und JS) ??
+Einfaches PHP-basiertes templating System von WordPress ??
+Keine/wenige Frameworks (Das Projekt einfach halten) ??
+Optimiert für moderne Browser ??
+Mobile-first ??
+?? Schritte
+
+Planung ??
+Technologie und Planung ??
+Anforderungsspezifikation + Analyse
+Kundengespräche
+Protokoll führen
+Projekt Management ??
+Work Breakdown Structure (WBS)
+Zeitplan/schätzung
+Design ??
+Grundlegender Aufbau
+Template auf WordPress auswählen ??
+Entwicklung ??
+Seiten erstellen
+Texte schreiben
+Bilder wählen
+Layout
+Test ??
+User Tests
+Usability Tests
